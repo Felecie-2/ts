@@ -11,7 +11,7 @@ html,body
 /* page 1 packground*/
 .fixed-bg{
 
-    background: url("ts/Taylor/Taylor/T1.jpg");
+    background: url("T1.jpg");
     background-size: 90%;
     background-position: right;
     background-attachment: fixed;
@@ -31,7 +31,7 @@ html,body
 /* page 2 packground*/
 .fixed-bg-2{
     margin-top: 0px;
-    background: url("ts/Taylor/Taylor/T-3.png");
+    background: url("T-3.png");
     background-size: 100%;
     background-position:center;
     background-attachment: fixed;
