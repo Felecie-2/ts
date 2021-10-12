@@ -28,7 +28,7 @@ b /*title*/
 }
 body
 {   
-	background: url("/Users/ranju/Desktop/computer science/WD/Taylor/Taylor/ae3.jpg");
+	background: url("ae3.jpg");
 	background-size: 100%;
 	background-attachment: fixed;
 	background-position: no-repeat;
